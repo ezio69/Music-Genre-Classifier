@@ -24,6 +24,7 @@ The top performing classifiers on the dataset were observed to be SVM with rbf k
 *Neural Network Based Classifier* ![svm_cm](https://github.com/ezio69/Music-Genre-Classifier/blob/master/svm_cm.png)
 *SVM*
 
+
 We can observe that the classifier does exceptionally well on classifying specific genres like classical,metal and jazz.
 
  
