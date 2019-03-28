@@ -20,4 +20,4 @@ Once the feature vector was obtained, different classifiers were trained on the 
 
 The top performing classifiers on the dataset were observed to be SVM with rbf kernel and a neural network based classifier performing with an accuracy of 85% and 83% on test set respectively.
 
-<img align="left" width="100" height="100" src="https://github.com/ezio69/Music-Genre-Classifier/blob/master/neural_network_cm.png">
+<img align="left" width="500" height="500" src="https://github.com/ezio69/Music-Genre-Classifier/blob/master/neural_network_cm.png">
