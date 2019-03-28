@@ -22,6 +22,4 @@ The top performing classifiers on the dataset were observed to be SVM with rbf k
 
 | ![nn_cm.png](https://github.com/ezio69/Music-Genre-Classifier/blob/master/neural_network_cm.png) | 
 |:--:| 
-| *Neural Network Based Classifier* |                             | ![svm_cm.png](https://github.com/ezio69/Music-Genre-Classifier/blob/master/svm_cm.png) | 
-|:--:| 
-| *SVM* |
+| *Neural Network Based Classifier* |
