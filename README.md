@@ -2,7 +2,7 @@
 
 ## Downloading the dataset
 
-The GTZAN dataset(used in the well known paper in genre classification " Musical genre classification of audio signals " by G. Tzanetakis and P. Cook in IEEE Transactions on Audio and Speech Processing 2002) consists of 1000 audio tracks each 30 seconds long. It contains 10 genres, each represented by 100 tracks in .au format can be downloaded from http://marsyas.info/downloads/datasets.html .
+The GTZAN dataset(used in the well known paper in genre classification "Musical genre classification of audio signals" by G.Tzanetakis and P.Cook in IEEE Transactions on Audio and Speech Processing 2002) consists of 1000 audio tracks each 30 seconds long. It contains 10 genres, each represented by 100 tracks in .au format can be downloaded from http://marsyas.info/downloads/datasets.html .
 
 ## Preprocessing
 
